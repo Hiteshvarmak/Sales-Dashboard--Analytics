@@ -1,5 +1,3 @@
-# Sales-Analytics-Dashboard-Power-BI
-
 # Sales Analytics Dashboard
 
 This Power BI Sales Analytics Dashboard provides a comprehensive overview of sales performance, visualizing key metrics such as revenue trends, regional sales distribution, customer contributions, and payment types. 
