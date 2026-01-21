@@ -6,7 +6,7 @@ This Power BI Sales Analytics Dashboard provides a comprehensive overview of sal
 - **Revenue Analysis:** Monthly revenue trends, regional distribution, and revenue bins.
 - **Customer & Sales Insights:** Breakdown of revenue by customer and salesperson performance.
 - **Product & Category Metrics:** Total number of products, categories, and shipping states.
-- **Payment Analysis:** Distribution of revenue by payment type (Credit Card, Check, Cash).
+- **Payment Analysis:** Distribution of revenue by payment type (Credit Card, Check, Cash)
 
 ## Tools & Technologies
 - **Power BI:** Used for dashboard creation and data visualization.
